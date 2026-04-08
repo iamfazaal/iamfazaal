@@ -1,51 +1,64 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> I'm Fazal</a>. Happy to see you.</h1>
+<div align="center">
 
-### 📫 Connect with me <img src="https://github.com/iamfazaal/iamfazaal/blob/main/handshake.gif" height="30px">
+# Hey, I'm Fazal 👋
 
-<p align="center">
-    <a href="https://medium.com/@iamfazaal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="fazal_fazly" height="40" width="40" /></a>&nbsp;
-    <a href="mailto:fazaal97@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="fazal_fazly" height="45" width="45" /></a>&nbsp;
-    <a href="https://twitter.com/iamfazaal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="fazal_fazly" height="45" width="45" /></a>&nbsp;
-    <a href="https://lk.linkedin.com/in/iamfazaal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="fazal_fazly" height="40" width="40" /></a>&nbsp;
-    <a href="https://www.facebook.com/iamfazaal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="fazal_fazly" height="40" width="40" /></a>&nbsp;
-</p>
+**Software Engineer · Full Stack · Java · React · Next.js**
 
----
-### 🤵 About Me:
-<p align="middle">
-  <img align="middle" src="https://github.com/iamfazaal/iamfazaal/blob/main/code.gif" width="450px" alt="codegif">
-</p>
+*Based in Duisburg, Germany 🇩🇪*
 
-- TODO
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamfazaal)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamfazaal)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamfazaal)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazaal97@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedfazal.vercel.app)
 
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
-</p>
+</div>
 
 ---
-### ⚡ My Github stats:
-<p align="center">
-  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamfazaal&show_icons=true&theme=gruvbox" />
-  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfazaal&layout=compact&theme=gruvbox" />
-</p>
 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{iamfazaal}/count.svg)
+## About Me
+
+A passionate Software Engineer striving towards excellence and professionalism — building reliable, scalable products that make a difference.
+
+I'm a Full Stack Engineer with experience across backend and frontend, working primarily with **Java**, **React**, and **Next.js**. I enjoy clean architecture, SOLID principles, and shipping features that actually work in production.
+
+- 🌍 Based in **Duisburg, Germany**
+- 💼 Experienced in **large-scale microservices** and full stack web development
+- 🎓 **BEng Software Engineering** — University of Westminster
+- 🎮 Gaming · ✈️ Travelling · 🏏 Cricket · 🎬 Movies
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+---
+
+*"Strive to build things that make a difference."*
